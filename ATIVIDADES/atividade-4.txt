@@ -1,0 +1,39 @@
+Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
+
+- Nome
+- Endereço
+- Cidade
+- CPF
+- RG
+- Idade
+- Nome do pai
+- Nome da mãe
+- Peso
+- Renda bruta
+
+Apresente as informações solicitadas no final do cadastro.
+---------------------------------------------------------------------------
+Resolvi fazer essa atividade utilizando JavaScript, e o código ficou dessa forma:
+const name = prompt("Escreva seu nome:")
+const address = prompt("Escreva seu endereço:")
+const city = prompt("Escreva sua cidade:")
+const CPF = prompt("Escreva seu CPF:")
+const RG = prompt("Escreva seu RG:")
+const age = prompt("Escreva seu idade:")
+const fatherName = prompt("Escreva o nome do seu pai:")
+const motherName = prompt("Escreva o nome da sua mãe:")
+const weight = prompt("Escreva seu peso:")
+const income = prompt("Escreva sua renda bruta:")
+
+console.log(name)
+console.log(address)
+console.log(city)
+console.log(CPF)
+console.log(RG)
+console.log(age)
+console.log(fatherName)
+console.log(motherName)
+console.log(weight)
+console.log(income)
+
+Link para vê-lo funcionando: https://codepen.io/DanielGNB/pen/dyQdRbG?editors=0012
