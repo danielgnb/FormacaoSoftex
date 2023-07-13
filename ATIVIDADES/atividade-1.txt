@@ -7,3 +7,18 @@ Sabendo que:
 
 Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
 -----------------------------------------------------------------
+
+-> Química:
+1º - Sócrates
+2º - Aristóteles
+3º - Platão
+
+-> Matemática:
+1º - Platão
+2º - Sócrates
+3º - Aristóteles
+
+-> Física:
+1º - Aristóteles
+2º - Platão
+3º - Sócrates
