@@ -1,0 +1,32 @@
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+1. A proposta das variáveis;
+2. Elaborada a declaração das variáveis;
+3. Utilizado o comando de atribuição.
+-----------------------------------------------------------------
+1. As variáveis serão tipadas como:
+Nome: Caractere;
+CPF: Inteiro;
+RG: Inteiro;
+Altura: Real;
+Endereço: Caractere.
+
+2. A declaração das variáveis devem ser identificadas por um nome simbólico à algo que armazenará um valor.
+À depender do padrão do projeto, as variáveis podem ser escritas em inglês ou na sua lingua materna.
+Irei utilizar em inglês por costume. Com exceção do CPF e RG por serem siglas.
+Nome: name;
+CPF: CPF;
+RG: RG;
+Altura: height;
+Endereço: address.
+
+3. name <- "José Almeida da Silva";
+CPF <- 12345678900
+RG <- 9517530
+height <- 1.78
+address <- "Rua A, 380 – Centro – Recife/PE"
