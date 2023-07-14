@@ -1,0 +1,40 @@
+Um aluno do ensino fundamental precisa fazer como tarefa de casa a tabuada de alguns números inteiros, como nos exemplos em anexo.
+
+Para ajudar esse aluno, você deve elaborar um algoritmo que solicite que seja digitado um número inteiro e que no final imprima o resultado da tabuada desse número.
+------------------------------------------------------------------------
+Fiz essa atividade utilizando C#.
+
+- Código funcionando: https://onlinegdb.com/rUxsDICjBQ
+- Código:
+using System;
+
+class Softex {
+  static void Main() {
+    var input = 0;
+        bool x = true;
+
+        while (x)
+        {
+            try
+            {
+                Console.WriteLine("--- Tabuada ---");
+                Console.Write("Digite um número inteiro: ");
+
+                input = Convert.ToInt32(Console.ReadLine());
+                x = false;
+                Console.WriteLine();
+            }
+            catch (Exception)
+            {
+                x = true;
+                Console.WriteLine();
+            }            
+        };
+
+        Console.WriteLine($"- Tabuada de {input} -");
+        for (int i = 0; i <= 10; i++)
+        {
+            Console.WriteLine($"{input}x{i} = {input * i}");
+        }
+  }
+}
