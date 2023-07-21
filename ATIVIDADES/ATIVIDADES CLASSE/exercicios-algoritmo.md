@@ -22,4 +22,19 @@
   Elabore um algoritmo que calcule a média final de um aluno desta disciplina.
   Dica: Neste caso você irá usar uma Média Aritmética Ponderada. Caso tenha dúvidas sobre
   esse tipo de cálculo, recomendo assistir a esse vídeo: Média Ponderada – Como calcular
-- Exercício 5:
+- Exercício 5: <a href="https://codepen.io/DanielGNB/pen/dyQjbEg?editors=0010" target="_blank">:link: Código</a>
+  <br>
+  Crie um programa no qual o usuário deverá inserir os valores da altura, largura e
+  profundidade de uma caixa d’água, em cm. <br>No final, exiba o volume dessa caixa d’água.<br>
+  Dica: Volume = Altura x Largura x Profundidade
+- Exercício 6: <a href="https://codepen.io/DanielGNB/pen/oNQMNbJ?editors=0010" target="_blank">:link: Código</a>
+  <br>
+  Crie um programa que peça para o usuário informar os valores da base e da altura de um
+  triângulo, em centímetros,, e então mostre na tela o valor da área desse triângulo.<br>
+  Dica: Área do triângulo = Base x Altura / 2
+- Exercício 7: <a href="https://codepen.io/DanielGNB/pen/KKrBKam?editors=0010" target="_blank">:link: Código</a>
+  <br>
+  Crie um algoritmo que informe um número e apresente se é impar ou par.
+- Exercício 8: <a href="https://codepen.io/DanielGNB/pen/gOQjOxp?editors=0012" target="_blank">:link: Código</a>
+  <br>
+  Crie um algoritmo que calcule o IMC. Pergunte o nome, idade, altura e peso.
