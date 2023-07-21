@@ -1,4 +1,4 @@
-- Exercício 1: https://codepen.io/DanielGNB/pen/poQKpyQ?editors=0010
+<a href="https://codepen.io/DanielGNB/pen/poQKpyQ?editors=0010" target="_blank">Exercício 1</a>
 - Exercício 2: https://codepen.io/DanielGNB/pen/JjeZMRd?editors=0010
 - Exercício 3.1: https://codepen.io/DanielGNB/pen/ZEmRvLZ?editors=0011
 - Exercício 3.2: https://codepen.io/DanielGNB/pen/xxQzpJO?editors=0010
