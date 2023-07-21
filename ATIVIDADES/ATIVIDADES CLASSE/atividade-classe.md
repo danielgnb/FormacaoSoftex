@@ -15,4 +15,11 @@
   Criar um algoritmo calculadora (soma, subtração, divisão, multiplicação):<br>
   Um calculadora utilizando if e else; <a href="https://codepen.io/DanielGNB/pen/ZEmRvLZ?editors=0011" target="_blank">:link: Código</a><br>
   Outra calculadora utilizando switch/case; <a href="https://codepen.io/DanielGNB/pen/xxQzpJO?editors=0010" target="_blank">:link: Código</a>
-- Exercício 4
+- Exercício 4: <a href="https://codepen.io/DanielGNB/pen/MWzXZXM?editors=0011" target="_blank">:link: Código</a>
+  <br>
+  O sistema de avaliação de determinada disciplina é composto por três provas. A primeira
+  prova tem peso 2, a segunda tem peso 3 e a terceira tem peso 5.
+  Elabore um algoritmo que calcule a média final de um aluno desta disciplina.
+  Dica: Neste caso você irá usar uma Média Aritmética Ponderada. Caso tenha dúvidas sobre
+  esse tipo de cálculo, recomendo assistir a esse vídeo: Média Ponderada – Como calcular
+- Exercício 5:
