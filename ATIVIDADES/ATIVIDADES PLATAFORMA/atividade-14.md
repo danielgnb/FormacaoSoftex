@@ -11,7 +11,6 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado.
 > <a href="https://codepen.io/DanielGNB/pen/YzRJRMB?editors=0012" target="_blank">:link: Código Funcionando</a>
 ```js
-let operacoes = [1, 2, 3, 4, 0];
 const calculadora = () => {
   let validacao = true;
 
@@ -21,7 +20,7 @@ const calculadora = () => {
       let valor1 = parseFloat(prompt("Digite um valor para ser calculado: "));
       let valor2 = parseFloat(prompt("Digite outro valor para ser calculado: "));
 
-      if (!isNaN(valor1) || !isNaN(valor2) || !isNaN(operacao) || !operacoes.includes(operacao)) {
+      if (!isNaN(valor1) && !isNaN(valor2) && !isNaN(operacao)) {
         switch (operacao) {
           case 1:
             alert(`A soma de ${valor1}+${valor2} é: ${valor1 + valor2}`);
@@ -42,6 +41,8 @@ const calculadora = () => {
             alert("Essa opção não existe!");
             break;
         }
+      } else {
+        alert("Digite valores numéricos");        
       }
     } else {
       validacao = false;
