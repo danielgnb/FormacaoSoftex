@@ -18,3 +18,4 @@ const bombaRelogio = async function(segundosExplosao) {
 
 bombaRelogio(parseInt(prompt("Insira um valor para a contagem regressiva: ")))
 ```
+![image](https://github.com/danielgnb/FormacaoSoftex/assets/83667868/3508425c-d7c9-47e2-bdc4-e42a5d46d3fd)
