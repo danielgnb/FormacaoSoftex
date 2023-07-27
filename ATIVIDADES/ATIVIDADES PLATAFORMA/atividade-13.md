@@ -10,7 +10,7 @@ Caso seja inserido um número de operação que não exista, o resultado deverá
 ```js
 let operacoes = [1, 2, 3, 4];
 const calculadora = (valor1, valor2, operacao) => {
-  if (!isNaN(valor1) || !isNaN(valor2) || !isNaN(operacao) || !operacoes.includes(operacao)) {
+  if (!isNaN(valor1) && !isNaN(valor2) && !isNaN(operacao) && !operacoes.includes(operacao)) {
     switch (operacao) {
       case 1:
         return alert(`A soma de ${valor1}+${valor2} é: ${valor1 + valor2}`);
