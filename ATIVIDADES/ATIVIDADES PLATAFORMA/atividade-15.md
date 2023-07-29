@@ -29,7 +29,6 @@ public static void Main() {
 			
 		} catch (Exception) {
 			Console.WriteLine("Preencha com um ano de nascimento entre 1922 e 2022.");
-			x = true;
 		}
 	}
 }
