@@ -1,4 +1,4 @@
-## Exercícios Algoritmo - Algoritmo 03/08/2018
+## Exercícios Algoritmo - 03/08/2018
 
 - Expressões, entrada e saída de dados
   - 1: <a href="https://codepen.io/DanielGNB/pen/mdQvaNZ?editors=0010" target="_blank">:link: Código</a>
