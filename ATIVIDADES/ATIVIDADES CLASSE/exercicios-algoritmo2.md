@@ -1,4 +1,5 @@
 ## Exercícios Algoritmo - 03/08/2018
+### <a href="https://github.com/danielgnb/FormacaoSoftex/blob/main/ATIVIDADES/ATIVIDADES%20CLASSE/Exerc%C3%ADcios%20algoritmo%2002.pdf" target="_blank">:link: Exercícios</a>
 
 - Expressões, entrada e saída de dados
   - 1: <a href="https://codepen.io/DanielGNB/pen/mdQvaNZ?editors=0010" target="_blank">:link: Código</a>
