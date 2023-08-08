@@ -18,7 +18,7 @@
 
 - Laços de repetição: Enquanto e Faça/Enquanto
   - 1: <a href="https://codepen.io/DanielGNB/pen/mdQvoqM?editors=0011" target="_blank">:link: Código</a>
-  - 2:
+  - 2: <a href="https://codepen.io/DanielGNB/pen/xxQeMPW?editors=0011" target="_blank">:link: Código</a>
 
 - Laços de Repetição: Para
   - 1: <a href="https://codepen.io/DanielGNB/pen/gOQqEeo?editors=0012" target="_blank">:link: Código</a>
