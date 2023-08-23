@@ -1,7 +1,5 @@
 ## Exercício da Plataforma - HTML
-### Crie exemplos de utilização das tags mais comuns na HTML: metadados, separação de conteúdo, texto, imagem, e formulário. É necessário pelo menos dosi exemplos de cada tipo.
-
-> <a href="" target="_blank">:html:</a>
+### Crie exemplos de utilização das tags mais comuns na HTML: metadados, separação de conteúdo, texto, imagem, e formulário. É necessário pelo menos dois exemplos de cada tipo.
 
 ```html
 <!DOCTYPE html>
@@ -16,8 +14,6 @@
 </body>
 </html>
 ```
-
-> <a href="" target="_blank">:html:</a>
 
 ```html
 <!DOCTYPE html>
