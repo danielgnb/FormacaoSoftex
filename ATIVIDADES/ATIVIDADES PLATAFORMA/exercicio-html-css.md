@@ -4,3 +4,6 @@
 ### - 2. a página deve ter imagens;
 ### - 3. a página deve ter imagens;
 Código: https://codepen.io/DanielGNB/pen/PoXOWjP?editors=1100
+
+### Para esta atividade, use a página que você elaborou sobre o ponto turístico e locais favoritos em sua cidadae. Aplique os seus conhecimentos adquiridos em CSS para melhorar o código HTML que você desenvolveu, adicione estilso e torne as suas páginas mais atraentes visualmente.
+Código: https://codepen.io/DanielGNB/pen/KKbQzOK
